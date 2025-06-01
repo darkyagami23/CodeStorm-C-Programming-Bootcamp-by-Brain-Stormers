@@ -1,0 +1,1 @@
+// markBoard function placed in main file

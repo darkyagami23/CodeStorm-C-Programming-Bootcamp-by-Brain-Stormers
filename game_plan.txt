@@ -1,0 +1,7 @@
+1. Show Board
+2. Ask Player Move
+3. Validate Move
+4. Mark Board
+5. Check Win/Draw
+6. Switch Player
+7. Repeat
